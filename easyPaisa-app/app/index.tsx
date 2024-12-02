@@ -4,7 +4,7 @@ import { ThemedText } from '@/components/ThemedText'
 import AntDesign from '@expo/vector-icons/AntDesign';
 import { router } from 'expo-router';
 import React from 'react'
-import { View,Text, TouchableOpacity, StyleSheet } from 'react-native'
+import { View,StyleSheet } from 'react-native'
 
 const welcomeScreen = () => {
   return (
