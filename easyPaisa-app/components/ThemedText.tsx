@@ -51,8 +51,8 @@ const styles = StyleSheet.create({
 
   },
   title: {
-    fontSize: 28,
-    fontWeight: 'bold',
+    fontSize: 26,
+    fontWeight: 'semibold',
     lineHeight: 32,
     color:'black'
   },
